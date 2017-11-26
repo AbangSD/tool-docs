@@ -1,0 +1,13 @@
+[Desktop Entry]
+Encoding=UTF-8
+Type=Application
+X-Created-By=AbangSD
+Categories=Application;Graphics;
+Icon=Conky
+Exec=conky -d
+Name=Conky
+Comment= Desktop monitor Manager
+Icon=Conky
+Name[zh_CN]=Conky
+StartupNotify=true
+Hidden=false
