@@ -2,7 +2,7 @@
 chmod +x IntelliJIDEALicenseServer
 ./IntelliJIDEALicenseServer -p 9942 -u abang
 ```
-https://github.com/AbangSD/tool/IntelliJIDEALicenseServer
+https://github.com/AbangSD/tool/tree/master/IntelliJIDEALicenseServer
 
 #### Credit
 
