@@ -8,7 +8,7 @@
 tar -zxvf go1.9.linux-amd64.tar.gz -C /usr/local
 sudo vim /etc/profile
 # go
-export PATH=$PATH:/usr/local/go/bin
+export PATH=$PATH:/usr/local/go/bin:/Users/abang/go/bin
 export GOROOT=/usr/local/go
 export GOPATH=your-go-path
 ```
